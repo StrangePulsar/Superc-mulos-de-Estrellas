@@ -34,4 +34,4 @@ El análisis se basa en trabajos fundamentales como:
 - Wood & Churchwell (1989): Estudio de regiones H II ultra-compactas.
 
 ### Créditos
-Este proyecto fue desarrollado en el marco de la asignatura **AAF-431: Materia Interestelar**, en el tercer periodo académico del 2024.
+Este proyecto fue desarrollado en el marco de la asignatura **AAF-431: Materia Interestelar** de la Licenciatura en Astronomía y Astrofísica de la Universidad Nacional Autónoma de Honduras, en el tercer periodo académico de 2024.
