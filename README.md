@@ -1,6 +1,16 @@
 # Análisis de Supercúmulos de Estrellas
 
 ## Descripción
+El proyecto aborda el análisis de supercúmulos de estrellas, regiones que contienen una gran densidad de estrellas masivas. Estas estrellas generan zonas ionizadas (regiones H II) que emiten intensamente en longitudes de onda de radio, gracias al mecanismo de bremsstrahlung (libre-libre). Estas emisiones permiten caracterizar las propiedades físicas de las regiones, como temperatura electrónica, densidad y contenido de polvo.
+
+El trabajo se centra en modelar el espectro de distribución de energía (SED) de una región H II idealizada. El modelo incorpora tanto la emisión de bremsstrahlung como la contribución de polvo térmico (cuerpo gris). Con esto, se busca:
+
+- Estudiar cómo las propiedades del gas y el polvo afectan la forma del SED.
+- Comparar el modelo con observaciones previas para validar el enfoque.
+- Analizar cómo parámetros como la medida de emisión (EM) influyen en la evolución de estas regiones.
+  
+Esta investigación contribuye a comprender cómo las regiones H II masivas interactúan con su entorno, un aspecto crucial en la formación y evolución de galaxias.
+
 Este proyecto modela la distribución espectral de energía (SED) de una región H II masiva. Las regiones H II son zonas ionizadas de gas que rodean estrellas jóvenes y calientes, donde el mecanismo de bremsstrahlung domina la emisión de radio. Además, se considera la emisión térmica de polvo en equilibrio con el gas.
 
 ### Objetivos
